@@ -2,7 +2,7 @@
 
 This repository contains a simple yet elegant **Interactive Badge Showcase** built with **HTML** and **CSS**. The project demonstrates an eye-catching way to display badges or awards with hover effects and animations, perfect for enhancing personal portfolios, developer profiles, or any project that requires a modern UI element. 
 
-## ✨ Features:
+## ✨ Features: 
 - **Hover Effect**: Smooth animations reveal badges dynamically on hover.
 - **Responsive Design**: Adapts gracefully to different screen sizes.
 - **Customizable Links**: Replace the image links in the `<img>` tags with URLs to your own badges or assets.
