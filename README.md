@@ -10,7 +10,7 @@ This repository contains a simple yet elegant **Interactive Badge Showcase** bui
 
 ## 🚀 How to Use: 
 - Clone the repository to your local machine:   
-   ```bash
+   ```bash 
    git clone https://github.com/<your-username>/<repository-name>.git
 
 - Open the `index.html` file in your browser to see the showcase in action.
