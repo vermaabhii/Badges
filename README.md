@@ -8,7 +8,7 @@ This repository contains a simple yet elegant **Interactive Badge Showcase** bui
 - **Customizable Links**: Replace the image links in the `<img>` tags with URLs to your own badges or assets.
 - **Minimalist UI**: A sleek dark theme that highlights your badges.
 
-## 🚀 How to Use: 
+## 🚀 How to Use:  
 - Clone the repository to your local machine:   
    ```bash 
    git clone https://github.com/<your-username>/<repository-name>.git
