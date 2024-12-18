@@ -7,7 +7,7 @@ This repository contains a simple yet elegant **Interactive Badge Showcase** bui
 - **Responsive Design**: Adapts gracefully to different screen sizes.
 - **Customizable Links**: Replace the image links in the `<img>` tags with URLs to your own badges or assets.
 - **Minimalist UI**: A sleek dark theme that highlights your badges. 
-
+ 
 ## 🚀 How to Use:  
 - Clone the repository to your local machine:   
    ```bash 
